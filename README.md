@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Antonio Zamora (@Triantonio).
+- 👋 Hi, I’m Antonio Zamora - Software Engineer (@Triantonio).
 - 👀 I’m interested in desktop application development using C++.
 - 🌱 I’m currently learning C++ & Qt Creator.
 - 🌐 My online Portfolio https://triantonio.github.io/Portfolio/html/index.html.
