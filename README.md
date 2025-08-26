@@ -2,7 +2,7 @@
 - 👀 I’m interested in desktop application development using C++.
 - 🌱 I’m currently learning C++ & Qt Creator.
 - 🌐 My online Portfolio https://triantonio.github.io/Portfolio/html/index.html.
-- 📫 How to reach me zamorasaizantonio@gmail.com.
+- 📫 How to reach me <!--zamorasaizantonio@gmail.com add private mail -->.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
